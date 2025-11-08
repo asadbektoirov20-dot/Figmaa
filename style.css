@@ -1,0 +1,35 @@
+*{
+        margin: 0;
+            padding: 0;
+                box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 1000vh;
+     background-color: rgb(21, 0, 42);
+}
+main{
+        width: 570px;
+            height: 602px;
+
+}
+.card{
+    width: 572px;
+    height: 602px;
+     background-image: url('photo_2025-10-04_18-01-12__2_-removebg-preview.png');
+         background-position: center;
+         background-size: cover;
+             margin-top: 178px;
+                 margin-left: 735px;
+}
+.sayt{
+        color: white;
+}
+header{
+        width: 100%;
+            height: 80px;
+                display: flex;
+                    justify-content: space-around;
+                        align-items: center;
+                            color: white;
+}
